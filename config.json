@@ -13,7 +13,7 @@
   "OTPKEY": "",
   "BOTNAME": "ARISE CHAT BOT",
   "PREFIX": "/",
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  "reactUnsend": ["", "", "", ""],
 
   "ADMINBOT": [
     "61555070245030",
